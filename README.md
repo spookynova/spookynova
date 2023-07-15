@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evnx32</h1>
+<h1 align="center">Hi 👋, I'm ExceptionEvader</h1>
 <h3 align="center">A Software engineering student from Indonesia</h3>
 
 - 🔭 I’m currently working on [NontanCLI](https://github.com/evnx32/NontanCLI), Open Source anime scraper using [Consumet API](https://github.com/consumet/api.consumet.org)
