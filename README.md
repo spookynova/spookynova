@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NontanCLI](https://github.com/evnx32/NontanCLI), Open Source anime scraper using [Consumet API](https://github.com/consumet/api.consumet.org)
 
-- 📝 Sometimes,i regularly write articles on [https://emelie-net.my.id](https://emelie-net.my.id)
+- 📝 Sometimes,i regularly write articles on [https://mondaypedia.my.id](https://mondaypedia.my.id)
 
 - 📫 Reach me on **evnx32@gmail.com**
 
