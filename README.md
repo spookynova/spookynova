@@ -1,7 +1,4 @@
 
-![readmebox](https://github.com/evnx32/evnx32/assets/79486672/ba727f43-bec6-4278-89f0-be101efce51d)
-
-
 - 🔭 I’m currently working on [NontanCLI](https://github.com/evnx32/NontanCLI), Open Source anime scraper using [Consumet API](https://github.com/consumet/api.consumet.org)
 
 - 📝 Sometimes,i regularly write articles on [https://mondaypedia.my.id](https://mondaypedia.my.id)
