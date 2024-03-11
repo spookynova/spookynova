@@ -1,4 +1,6 @@
-<p><img src="https://github.com/evnx32/evnx32/assets/79486672/e6ae9cef-0caf-43f3-8a25-41904dfa6c46" alt="readmebox"></p>
+![readmebox](https://github.com/evnx32/evnx32/assets/79486672/0f109924-2030-4f1b-8c08-a0ec2f217d32)
+
+
 <table>
     <thead>
         <tr>
@@ -7,4 +9,3 @@
         </tr>
     </thead>
 </table>
-<hr>
