@@ -6,8 +6,8 @@
 <table>
     <thead>
         <tr>
-            <th><img src="https://github-readme-stats.vercel.app/api?username=evnx32&amp;show_icons=true&amp;theme=radical" alt="Evnx32 github stats"></th>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evnx32&amp;langs_count=8&amp;theme=radical&amp;layout=compact" alt="Top Langs"></td>
+            <th><img src="https://github-readme-stats.vercel.app/api?username=spookynova&amp;show_icons=true&amp;theme=radical" alt="spookynova github stats"></th>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookynova&amp;langs_count=8&amp;theme=radical&amp;layout=compact" alt="Top Langs"></td>
         </tr>
     </thead>
 </table>
