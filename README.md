@@ -1,6 +1,5 @@
 
-![readmebox](https://github.com/evnx32/evnx32/assets/79486672/88482831-572f-48d2-afa3-f70b22fd5cb2)
-
+![readmebox](https://github.com/user-attachments/assets/419b28b6-df86-43bc-b256-e0ec50678771)
 
 
 <table>
